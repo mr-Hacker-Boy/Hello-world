@@ -1,4 +1,4 @@
-# 101-ways-to-print-helloworld
+# Print-helloworld in various programming language
 >print "Hello World!" in various programming language with various method
 
 For example in javascript we can do either ```console.log("Hello World!");```
